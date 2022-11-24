@@ -1,0 +1,5 @@
+[centos_servers]
+centos ansible_host=192.168.1.55 ansible_user=root
+
+[ubuntu_servers]
+ubuntu ansible_host=192.168.1.56 ansible_user=bb
